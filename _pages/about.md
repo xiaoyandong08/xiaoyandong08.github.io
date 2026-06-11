@@ -11,7 +11,7 @@ redirect_from:
 
 代表性研究成果发表于Nature Communications（2024,2020,2017，3篇均为一作），PRE等期刊。3篇Nature Communications论文分别入选Nature出版集团的《群体智能-从生物到机器人》合辑、《网络科学》合辑、《微生物生态学》合辑。
 
-# 招生
+### 招生
 
 
-# Publications
+### Publications
