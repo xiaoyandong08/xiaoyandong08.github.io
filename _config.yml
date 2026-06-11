@@ -29,7 +29,7 @@ author:
   bio              : ""
   location         : "Shenzhen Campus"
   employer         : "Sun Yat-sen University"
-  uri              : # https://saa.sysu.edu.cn/teacher/797
+  uri              : "https://saa.sysu.edu.cn/teacher/797"
   email            : "xiaoyd8@mail.sysu.edu.cn" 
 
   # Academic websites
@@ -55,7 +55,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
